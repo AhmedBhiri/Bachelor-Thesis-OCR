@@ -79,9 +79,9 @@ All powered by modern computer vision and OCR.
 
 The following diagram shows the high-level architecture of the system
 and how the frontend, backend, ML pipeline, and external services interact.
-📐 See `ARCHITECTURE.md` for a visual diagram.
-![System Architecture](docs/system_architecture.png)
 
+![System Architecture](docs/system_architecture.png)
+📐  `ARCHITECTURE.md` 
 
 ---
 
