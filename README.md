@@ -1,4 +1,4 @@
-# 🧾✨ Invoice OCR & Parsing System
+# 🧾✨ MyParse-OCR: Invoice OCR & Parsing System
 
 An end-to-end AI system for extracting structured information from **invoices and receipts**
 using object detection 🤖 + OCR 🔍, wrapped in a friendly web interface 💻.
