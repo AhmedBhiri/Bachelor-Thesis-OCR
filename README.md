@@ -38,12 +38,7 @@ All powered by modern computer vision and OCR.
 
 ## 🧩 Project Structure
 
-## 🧠 System Architecture
 
-The following diagram shows the high-level architecture of the system
-and how the frontend, backend, ML pipeline, and external services interact.
-
-![System Architecture](docs/system_architecture.png)
 
 ### 🎨 Frontend — Application Layer
 **Next.js web app**
@@ -80,7 +75,13 @@ and how the frontend, backend, ML pipeline, and external services interact.
 4️⃣ Structured JSON is returned  
 5️⃣ Frontend displays results for review & export  
 
+
+
+The following diagram shows the high-level architecture of the system
+and how the frontend, backend, ML pipeline, and external services interact.
 📐 See `ARCHITECTURE.md` for a visual diagram.
+![System Architecture](docs/system_architecture.png)
+
 
 ---
 
