@@ -46,7 +46,8 @@ All powered by modern computer vision and OCR.
 - Display extracted fields 🧾
 - Review & correct results ✍️
 
-👉 https://github.com/AhmedBhiri/Invoice-parser
+📂 [frontend](https://github.com/AhmedBhiri/Invoice-parser)  
+
 
 ---
 
@@ -59,7 +60,8 @@ All powered by modern computer vision and OCR.
 - Post-processing & field parsing 🧮
 - JSON responses for the frontend 📦
 
-👉 https://github.com/AhmedBhiri/invoice-parser-ml-backend
+📂 [backend](https://github.com/AhmedBhiri/invoice-parser-ml-backend)
+
 
 ---
 
