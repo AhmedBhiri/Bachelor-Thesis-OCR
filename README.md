@@ -6,6 +6,19 @@ using object detection 🤖 + OCR 🔍, wrapped in a friendly web interface 💻
 This repository is the **project hub** 🧠  
 → it explains how everything fits together and links to the actual code.
 
+## 📁 Repositories
+
+This project is split into two main code repositories:
+
+- 📂 **frontend/**  
+  🎨 Next.js application (UI, upload, review, correction)  
+  👉 https://github.com/AhmedBhiri/Invoice-parser
+
+- 📂 **backend/**  
+  🧠 Django API + ML & OCR pipeline (YOLO + Tesseract)  
+  👉 https://github.com/AhmedBhiri/invoice-parser-ml-backend
+
+
 ---
 
 ## 💡 What is this?
